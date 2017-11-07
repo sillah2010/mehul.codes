@@ -108,7 +108,7 @@ html {
     float: right;
 }
 .wrapper .right h1 {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 300;
     margin: 0px;
     padding: 0px;
@@ -155,7 +155,7 @@ html {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    background: url(../images/profile2.jpg) no-repeat;
+    background: url(../images/trap.jpg) no-repeat;
     background-size: 102%;
     background-position: center;
     background-color: RGBA(255, 255, 255, 0.15);
@@ -198,7 +198,7 @@ only screen and (min-device-pixel-ratio: 2) {
         background-color: red;
         background-position: center !important;
         background-size: 102% 102% !important;
-        background: url(../images/profile2.jpg) no-repeat;
+        background: url(../images/trap.jpg) no-repeat;
     }
     .mountains .range {
         background-size: auto 119px;
